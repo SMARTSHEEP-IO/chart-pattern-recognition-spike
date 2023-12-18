@@ -1,0 +1,5 @@
+ultralyticsplus==0.0.29
+ultralytics==8.0.227
+scikit-image==0.22.0
+imagecodecs==2023.9.18
+opencv-python==4.8.1.78
